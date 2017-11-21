@@ -12,7 +12,8 @@ public:
         if (!nums.empty()) {
             int i;
             for (i = 0; i < nums.size(); i++) {
-                if (m.find(nums[i]) == m.end()) {//此时map中不存在此hash
+                //if (m.find(nums[i]) == m.end()) {//此时map中不存在此hash
+                if(!m.count(nums[i])) {
                     m[target-nums[i]] = i;
                 } else {
                     ret.push_back(m[nums[i]]);//另一个的下标索引
@@ -32,6 +33,6 @@ int main() {
     num.push_back(7);
     num.push_back(11);
     num.push_back(15);
-    vector<int> ret = s.twoSum(num,9);
+    vector<int> ret = s.twoSum(num,13);
     cout << ret[0] << " " << ret[1];
 }

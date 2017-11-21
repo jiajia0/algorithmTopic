@@ -87,11 +87,11 @@ int main() {
 
     node1.next = &node2;
     node2.next = &node3;
-    //node3.next = &node4;
-    //node4.next = &node5;
+    node3.next = &node4;
+    node4.next = &node5;
     //node5.next = &node6;
 
-    ListNode* p = s.rotateRight(&node1,2000000000);
+    ListNode* p = s.rotateRight(&node1,8);
     while(p) {
         cout << p->val << ",";
         p = p->next;
