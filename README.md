@@ -29,7 +29,8 @@ Solved：21/28
 |	445	|			[Add Two Numbers II   ](http://blog.csdn.net/leafage_m/article/details/78066363)|Medium|
 |	725	|			[Split Linked List in Parts   ](http://blog.csdn.net/leafage_m/article/details/78586549)|Medium|
 ***
-####Array。
+#### Array。
+
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
 |	169	|	[Majority Element](http://blog.csdn.net/Leafage_M/article/details/78988717)|Easy|
