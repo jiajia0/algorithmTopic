@@ -33,6 +33,7 @@ Solved：21/28
 
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+|	167	|	[Two Sum II - Input array is sorted](http://blog.csdn.net/Leafage_M/article/details/78991454)|Easy|
 |	169	|	[Majority Element](http://blog.csdn.net/Leafage_M/article/details/78988717)|Easy|
 |	195	|			[Teemo Attacking](http://blog.csdn.net/Leafage_M/article/details/78846304)|Medium|
 |	238	|	[Product of Array Except Self](http://blog.csdn.net/leafage_m/article/details/78982223)|Medium|
