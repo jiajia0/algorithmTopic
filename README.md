@@ -36,6 +36,7 @@ Solved：21/28
 |	167	|	[Two Sum II - Input array is sorted](http://blog.csdn.net/Leafage_M/article/details/78991454)|Easy|
 |	169	|	[Majority Element](http://blog.csdn.net/Leafage_M/article/details/78988717)|Easy|
 |	195	|			[Teemo Attacking](http://blog.csdn.net/Leafage_M/article/details/78846304)|Medium|
+|	217	|	[Contains Duplicate](http://blog.csdn.net/Leafage_M/article/details/78997239)|Easy|
 |	238	|	[Product of Array Except Self](http://blog.csdn.net/leafage_m/article/details/78982223)|Medium|
 |	283	|			[Move Zeroes](http://blog.csdn.net/Leafage_M/article/details/78760763)|Easy|
 |	442	|			[Find All Duplicates in an Array   ](http://blog.csdn.net/Leafage_M/article/details/78649054)|Medium|
@@ -45,3 +46,4 @@ Solved：21/28
 |	566	|			[Reshape the Matrix   ](http://blog.csdn.net/leafage_m/article/details/78633800)|Easy|
 |	667	|			[Beautiful Arrangement II](http://blog.csdn.net/Leafage_M/article/details/78806258)|Medium|
 |	717	|			[1-bit and 2-bit Characters](http://blog.csdn.net/Leafage_M/article/details/78760146)|Easy|
+|	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
