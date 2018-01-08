@@ -44,6 +44,7 @@ Solved：21/28
 |	485	|			[Max Consecutive Ones   ](http://blog.csdn.net/Leafage_M/article/details/78659523)|Easy|
 |	561	|			[Array Partition I      ](http://blog.csdn.net/leafage_m/article/details/78596662)|Easy|
 |	566	|			[Reshape the Matrix   ](http://blog.csdn.net/leafage_m/article/details/78633800)|Easy|
+|	628	|	[Maximum Product of Three Numbers](http://blog.csdn.net/Leafage_M/article/details/79006701)|Easy|
 |	667	|			[Beautiful Arrangement II](http://blog.csdn.net/Leafage_M/article/details/78806258)|Medium|
 |	717	|			[1-bit and 2-bit Characters](http://blog.csdn.net/Leafage_M/article/details/78760146)|Easy|
 |	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
