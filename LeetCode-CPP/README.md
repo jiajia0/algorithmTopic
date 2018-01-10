@@ -44,8 +44,10 @@ Solved：21/28
 |	448	|			[Find All Numbers Disappeared in an Array](http://blog.csdn.net/Leafage_M/article/details/78724524)|Easy|
 |	485	|			[Max Consecutive Ones   ](http://blog.csdn.net/Leafage_M/article/details/78659523)|Easy|
 |	561	|			[Array Partition I      ](http://blog.csdn.net/leafage_m/article/details/78596662)|Easy|
+|	565	|	[Array Nesting    ](http://blog.csdn.net/leafage_m/article/details/79024521)|Medium|
 |	566	|			[Reshape the Matrix   ](http://blog.csdn.net/leafage_m/article/details/78633800)|Easy|
 |	628	|	[Maximum Product of Three Numbers](http://blog.csdn.net/Leafage_M/article/details/79006701)|Easy|
 |	667	|			[Beautiful Arrangement II](http://blog.csdn.net/Leafage_M/article/details/78806258)|Medium|
+|	674	|	[Longest Continuous Increasing Subsequence](http://blog.csdn.net/Leafage_M/article/details/79017081)|Easy|
 |	717	|			[1-bit and 2-bit Characters](http://blog.csdn.net/Leafage_M/article/details/78760146)|Easy|
 |	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
