@@ -38,6 +38,7 @@ Solved：21/28
 |	195	|			[Teemo Attacking](http://blog.csdn.net/Leafage_M/article/details/78846304)|Medium|
 |	217	|	[Contains Duplicate](http://blog.csdn.net/Leafage_M/article/details/78997239)|Easy|
 |	238	|	[Product of Array Except Self](http://blog.csdn.net/leafage_m/article/details/78982223)|Medium|
+|	268	|	[Missing Number    ](http://blog.csdn.net/leafage_m/article/details/79007326)|Easy|
 |	283	|			[Move Zeroes](http://blog.csdn.net/Leafage_M/article/details/78760763)|Easy|
 |	268	|	[Missing Number   ](http://blog.csdn.net/Leafage_M/article/details/79007326)|Easy|
 |	442	|			[Find All Duplicates in an Array   ](http://blog.csdn.net/Leafage_M/article/details/78649054)|Medium|
