@@ -40,7 +40,7 @@ Solved：21/28
 |	238	|	[Product of Array Except Self](http://blog.csdn.net/leafage_m/article/details/78982223)|Medium|
 |	268	|	[Missing Number    ](http://blog.csdn.net/leafage_m/article/details/79007326)|Easy|
 |	283	|			[Move Zeroes](http://blog.csdn.net/Leafage_M/article/details/78760763)|Easy|
-|	268	|	[Missing Number   ](http://blog.csdn.net/Leafage_M/article/details/79007326)|Easy|
+|	287	|	[Find the Duplicate Number](http://blog.csdn.net/Leafage_M/article/details/79168034)|Medium|
 |	442	|			[Find All Duplicates in an Array   ](http://blog.csdn.net/Leafage_M/article/details/78649054)|Medium|
 |	448	|			[Find All Numbers Disappeared in an Array](http://blog.csdn.net/Leafage_M/article/details/78724524)|Easy|
 |	485	|			[Max Consecutive Ones   ](http://blog.csdn.net/Leafage_M/article/details/78659523)|Easy|
