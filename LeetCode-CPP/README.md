@@ -33,6 +33,7 @@ Solved：21/28
 
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+|	122	|	[Best Time to Buy and Sell Stock II](http://blog.csdn.net/Leafage_M/article/details/79177612)|Easy|
 |	167	|	[Two Sum II - Input array is sorted](http://blog.csdn.net/Leafage_M/article/details/78991454)|Easy|
 |	169	|	[Majority Element](http://blog.csdn.net/Leafage_M/article/details/78988717)|Easy|
 |	195	|			[Teemo Attacking](http://blog.csdn.net/Leafage_M/article/details/78846304)|Medium|
