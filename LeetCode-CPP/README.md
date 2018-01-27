@@ -49,6 +49,7 @@ Solved：21/28
 |	565	|	[Array Nesting    ](http://blog.csdn.net/leafage_m/article/details/79024521)|Medium|
 |	566	|			[Reshape the Matrix   ](http://blog.csdn.net/leafage_m/article/details/78633800)|Easy|
 |	628	|	[Maximum Product of Three Numbers](http://blog.csdn.net/Leafage_M/article/details/79006701)|Easy|
+|	661	|	[Image Smoother](http://blog.csdn.net/Leafage_M/article/details/79184251)|Easy|
 |	667	|			[Beautiful Arrangement II](http://blog.csdn.net/Leafage_M/article/details/78806258)|Medium|
 |	674	|	[Longest Continuous Increasing Subsequence](http://blog.csdn.net/Leafage_M/article/details/79017081)|Easy|
 |	697	|	[Degree of an Array](http://blog.csdn.net/Leafage_M/article/details/79047904)|Easy|
