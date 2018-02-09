@@ -22,7 +22,7 @@ public:
     }
 };*/
 
-class Solution {
+/*class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int maxProfit = 0;//最大的利润
@@ -31,6 +31,21 @@ public:
         for(int i=1;i<prices.size();i++) {
             curProfit = max(0,curProfit + prices[i] - prices[i-1]);//计算最近两天的利润加上之前的利润是多少
             maxProfit = max(maxProfit,curProfit);//更换最大的利润
+        }
+        return maxProfit;
+    }
+};*/
+
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int maxProfit = 0;//最大的利润
+        for(int i=0;i<prices.size();i++) {
+            for(int j=i+1;j<prices.size();j++) {
+                if(prices[j] - prices[i] > maxProfit) {
+                    maxProfit = prices[j] - prices[i];
+                }
+            }
         }
         return maxProfit;
     }
