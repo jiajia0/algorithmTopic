@@ -9,38 +9,26 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<vector<int>> result;
-        int flag = 0;
-        int k1;
-        int yushu;
-        int a;
+        vector<vector<int>> ans;// 用来保存最后的答案
+        vector<int> comb;// 用来保存当前的分组
+        combination(ans,comb,k,1,n);
+        return ans;
+    }
 
-        for(int i=0;i<k;i++) {
-            vector<int> ans;
-            if(!flag) {
-                flag = n - k;
-            } else {
-                flag--;
-            }
-
-            ans.push_back(flag);
-
-            k1 = k - 1;
-            yushu = n-flag;
-            a = 1;
-
-            while(k1 > 1) {
-                ans.push_back(a);
-                yushu = yushu - a;
-                a++;
-                k1--;
-            }
-
-            ans.push_back(yushu);
-
-            result.push_back(ans);
+    // 递归调用
+    void combination(vector<vector<int>>& ans,vector<int>& comb,int k,int start,int n) {
+        // 如果此时comb中的元素个数已经等于想要的；或者此时目标数为0，结束递归
+        if(k == 0 && n == 0) {
+            ans.push_back(comb);
+            return;
+        }
+        for(int i = start; i <= 10-k&&i<=n; i++) {
+            comb.push_back(i);
+            combination(ans,comb,k,i+1,n-i);
+            comb.pop_back();
         }
     }
+
 };
 
 
@@ -49,12 +37,12 @@ int main() {
 
     vector<vector<int>> result = s.combinationSum3(3,9);
 
-    /*for(int i=0;i<result.size();i++) {
+    for(int i=0;i<result.size();i++) {
         for(int j=0;j<result[0].size();j++) {
             cout << result[i][j] << " ";
         }
         cout << endl;
-    }*/
+    }
 
     return 0;
 }
