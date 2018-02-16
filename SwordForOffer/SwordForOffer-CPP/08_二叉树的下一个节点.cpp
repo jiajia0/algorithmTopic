@@ -28,7 +28,7 @@ BinaryTreeNode* GetNext(BinaryTreeNode* pNode) {
     } else if (pNode->m_pParent != nullptr) {
         BinaryTreeNode* pCurrent = pNode;
         BinaryTreeNode* pParent = pNode->m_pParent;// 找到当前节点的父节点
-        while(pParent != nullptr && pCurrent==pParent->m_pRight) {// 直到当前的节点是父节点的左子节点，那么父节点就是下一个节点
+        while(pParent != nullptr && pCurrent!=pParent->m_pLeft) {// 直到当前的节点是父节点的左子节点，那么父节点就是下一个节点
             pCurrent = pParent;
             pParent = pParent->m_pParent;
         }
