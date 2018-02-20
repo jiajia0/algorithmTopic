@@ -17,18 +17,21 @@ public:
 
     // 递归调用
     void combination(vector<vector<int>>& ans,vector<int>& comb,int k,int start,int n) {
+        if(comb.size() > k)// 结束
+            return;
+        if(comb.size()==k&&n!=0)//结束
+            return;
         // 如果此时comb中的元素个数已经等于想要的；或者此时目标数为0，结束递归
-        if(k == 0 && n == 0) {
+        if(comb.size() == k && n == 0) {
             ans.push_back(comb);
             return;
         }
-        for(int i = start; i <= 10-k&&i<=n; i++) {
+        for(int i = start; i<=9&&i<=n; i++) {
             comb.push_back(i);
-            combination(ans,comb,k,i+1,n-i);
-            comb.pop_back();
+            combination(ans,comb,k,i+1,n-i);// 向下一个数字查找
+            comb.pop_back();// 回溯一位
         }
     }
-
 };
 
 
