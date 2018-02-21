@@ -38,6 +38,7 @@ Solved：21/28
 |	167	|	[Two Sum II - Input array is sorted](http://blog.csdn.net/Leafage_M/article/details/78991454)|Easy|
 |	169	|	[Majority Element](http://blog.csdn.net/Leafage_M/article/details/78988717)|Easy|
 |	195	|			[Teemo Attacking](http://blog.csdn.net/Leafage_M/article/details/78846304)|Medium|
+|	216	|	[Combination Sum III](http://blog.csdn.net/Leafage_M/article/details/79339754)|Medium|
 |	217	|	[Contains Duplicate](http://blog.csdn.net/Leafage_M/article/details/78997239)|Easy|
 |	238	|	[Product of Array Except Self](http://blog.csdn.net/leafage_m/article/details/78982223)|Medium|
 |	268	|	[Missing Number    ](http://blog.csdn.net/leafage_m/article/details/79007326)|Easy|
@@ -59,3 +60,12 @@ Solved：21/28
 |	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
 |	766	|	[Toeplitz Matrix](http://blog.csdn.net/Leafage_M/article/details/79157007)|Easy|
 |	769	|	[Max Chunks To Make Sorted](http://blog.csdn.net/Leafage_M/article/details/79324942)|Medium|
+***
+#### Hash Table。
+| #      	  	| Title         |  Difficulty  |
+|:-------------:|:-------------:| :-----:|
+|	136	|	[Single Number    ](http://blog.csdn.net/Leafage_M/article/details/79344100)|Easy|
+|	463	|	[Island Perimeter](http://blog.csdn.net/Leafage_M/article/details/79342588)|Easy|
+|	500	|	[Keyboard Row    ](http://blog.csdn.net/Leafage_M/article/details/79341137)|Easy|
+|	575	|	[Distribute Candies](http://blog.csdn.net/Leafage_M/article/details/79342039)|Easy|
+|	771	|	[Jewels and Stones](http://blog.csdn.net/Leafage_M/article/details/79340216)|Easy|
