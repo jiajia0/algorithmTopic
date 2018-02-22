@@ -68,4 +68,6 @@ Solved：21/28
 |	463	|	[Island Perimeter](http://blog.csdn.net/Leafage_M/article/details/79342588)|Easy|
 |	500	|	[Keyboard Row    ](http://blog.csdn.net/Leafage_M/article/details/79341137)|Easy|
 |	575	|	[Distribute Candies](http://blog.csdn.net/Leafage_M/article/details/79342039)|Easy|
+|	739	|	[Daily Temperatures    ](http://blog.csdn.net/Leafage_M/article/details/79350188)|Medium|
+|	748	|	[Shortest Completing Word    ](http://blog.csdn.net/Leafage_M/article/details/79350350)|Medium|
 |	771	|	[Jewels and Stones](http://blog.csdn.net/Leafage_M/article/details/79340216)|Easy|
