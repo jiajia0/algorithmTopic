@@ -10,16 +10,16 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        ListNode* p1 = l1;//ÓÃÀ´Ö¸Ïòl1
-        ListNode* p2 = l2;//ÓÃÀ´Ö¸Ïòl2
-        ListNode* tail;//ÓÃÀ´±íÊ¾µ±Ç°×îºóÒ»¸ö½Úµã
-        int flag;//ÓÃÀ´±ê¼ÇµÚÒ»¸öÊýÖµË­´óË­Ð¡£¬ÓÃÀ´×îºóÈ·¶¨·µ»ØÖµ¡£
-        if(!p1) {//Èç¹ûl1Îª¿Õ£¬Ö±½Ó·µ»Øl2
+        ListNode* p1 = l1;//ç”¨æ¥æŒ‡å‘l1
+        ListNode* p2 = l2;//ç”¨æ¥æŒ‡å‘l2
+        ListNode* tail;//ç”¨æ¥è¡¨ç¤ºå½“å‰æœ€åŽä¸€ä¸ªèŠ‚ç‚¹
+        int flag;//ç”¨æ¥æ ‡è®°ç¬¬ä¸€ä¸ªæ•°å€¼è°å¤§è°å°ï¼Œç”¨æ¥æœ€åŽç¡®å®šè¿”å›žå€¼ã€‚
+        if(!p1) {//å¦‚æžœl1ä¸ºç©ºï¼Œç›´æŽ¥è¿”å›žl2
             return p2;
-        } else if(!p2) {//l2Îª¿Õ£¬·µ»Øl1
+        } else if(!p2) {//l2ä¸ºç©ºï¼Œè¿”å›žl1
             return p1;
         } else {
-            if(p1->val<=p2->val) {//±È½ÏµÚÒ»¸ö½ÚµãµÄ´óÐ¡¡£
+            if(p1->val<=p2->val) {//æ¯”è¾ƒç¬¬ä¸€ä¸ªèŠ‚ç‚¹çš„å¤§å°ã€‚
                 tail = p1;
                 p1 = p1->next;
                 flag = 1;
@@ -30,18 +30,18 @@ public:
             }
 
             while(p1 && p2) {
-                if(p1->val <= p2->val) {//Èç¹ûp1µÄÊý±Èp2µÄÐ¡£¬ÈÃtailÖ¸Ïòp1,²¢ÇÒ¼ÌÐø±éÀú¡£
+                if(p1->val <= p2->val) {//å¦‚æžœp1çš„æ•°æ¯”p2çš„å°ï¼Œè®©tailæŒ‡å‘p1,å¹¶ä¸”ç»§ç»­éåŽ†ã€‚
                     tail->next = p1;
                     tail = p1;
                     p1 = p1->next;
-                } else {//Èç¹ûp2±Èp1µÄÊýÐ¡£¬tailÖ¸ÏòÕâÀï
+                } else {//å¦‚æžœp2æ¯”p1çš„æ•°å°ï¼ŒtailæŒ‡å‘è¿™é‡Œ
                     tail->next = p2;
                     tail = p2;
                     p2 = p2->next;
                 }
             }
 
-            if(!p1) {//Èç¹û´ËÊ±p1Ö¸Ïò¿ÕÁË£¬Ö±½Ó½«p2Ê£ÏÂµÄÄÚÈÝÁ¬½Óµ½½ÚµãÉÏ.
+            if(!p1) {//å¦‚æžœæ­¤æ—¶p1æŒ‡å‘ç©ºäº†ï¼Œç›´æŽ¥å°†p2å‰©ä¸‹çš„å†…å®¹è¿žæŽ¥åˆ°èŠ‚ç‚¹ä¸Š.
                 tail->next = p2;
             } else if(!p2) {
                 tail->next = p1;
@@ -56,6 +56,29 @@ public:
     }
 };
 
+/*
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if(l1 == nullptr)
+            return l2;
+        else if(l2 == nullptr)
+            return l1;
+        ListNode* pMergeHead = nullptr;
+
+        if(l1->val < l2->val) {
+            pMergeHead = l1;
+            pMergeHead->next = mergeTwoLists(l1->next,l2);
+        } else {
+            pMergeHead = l2;
+            pMergeHead->next = mergeTwoLists(l1,l2->next);
+        }
+
+        return pMergeHead;
+
+    }
+};
+*/
 int main() {
     Solution s;
 
