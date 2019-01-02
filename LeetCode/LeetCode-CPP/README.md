@@ -62,6 +62,7 @@ Solved：21/28
 |	769	|	[Max Chunks To Make Sorted](http://blog.csdn.net/Leafage_M/article/details/79324942)|Medium|
 |	832	|	[Flipping an Image](https://blog.csdn.net/Leafage_M/article/details/85549951)|Easy|
 |	905	|	[Sort Array By Parity	](https://blog.csdn.net/Leafage_M/article/details/85412554)|Easy|
+|	922	|	[Sort Array By Parity II](https://blog.csdn.net/Leafage_M/article/details/85638271)|Easy|
 ***
 #### Hash Table。
 | #      	  	| Title         |  Difficulty  |
