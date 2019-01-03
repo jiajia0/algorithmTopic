@@ -28,6 +28,7 @@ Solved：21/28
 |	328	|	[Odd Even Linked List   ](http://blog.csdn.net/leafage_m/article/details/78066424)|Medium|
 |	445	|	[Add Two Numbers II   ](http://blog.csdn.net/leafage_m/article/details/78066363)|Medium|
 |	725	|	[Split Linked List in Parts   ](http://blog.csdn.net/leafage_m/article/details/78586549)|Medium|
+|	876	|	[Middle of the Linked List](https://blog.csdn.net/Leafage_M/article/details/85718175)|Easy|
 ***
 #### Array。
 
