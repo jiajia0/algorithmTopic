@@ -61,6 +61,7 @@ Solved：21/28
 |	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
 |	766	|	[Toeplitz Matrix](http://blog.csdn.net/Leafage_M/article/details/79157007)|Easy|
 |	769	|	[Max Chunks To Make Sorted](http://blog.csdn.net/Leafage_M/article/details/79324942)|Medium|
+|	830	|	[Positions of Large Groups](https://blog.csdn.net/Leafage_M/article/details/85855645)|Easy|
 |	832	|	[Flipping an Image](https://blog.csdn.net/Leafage_M/article/details/85549951)|Easy|
 |	867	|	[Transpose Matrix](https://blog.csdn.net/Leafage_M/article/details/85713507)|Easy|
 |	888	|	[Fair Candy Swap](https://blog.csdn.net/Leafage_M/article/details/85792710)|Easy|
