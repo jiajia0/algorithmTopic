@@ -34,6 +34,8 @@ Solved：21/28
 
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+|	1	|	[Two Sum](https://blog.csdn.net/Leafage_M/article/details/78066961)|Easy|
+|	66	|	[Plus One](https://blog.csdn.net/Leafage_M/article/details/86255455)|Easy|
 |	121	|	[Best Time to Buy and Sell Stock    ](http://blog.csdn.net/Leafage_M/article/details/79302466)|Easy|
 |	122	|	[Best Time to Buy and Sell Stock II](http://blog.csdn.net/Leafage_M/article/details/79177612)|Easy|
 |	167	|	[Two Sum II - Input array is sorted](http://blog.csdn.net/Leafage_M/article/details/78991454)|Easy|
