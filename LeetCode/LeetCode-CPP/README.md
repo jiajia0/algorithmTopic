@@ -58,6 +58,7 @@ Solved：21/28
 |	667	|	[Beautiful Arrangement II](http://blog.csdn.net/Leafage_M/article/details/78806258)|Medium|
 |	674	|	[Longest Continuous Increasing Subsequence](http://blog.csdn.net/Leafage_M/article/details/79017081)|Easy|
 |	697	|	[Degree of an Array](http://blog.csdn.net/Leafage_M/article/details/79047904)|Easy|
+|	709	| [To Lower Case](<https://blog.csdn.net/Leafage_M/article/details/91492174>) |Easy|
 |	714	|	[Best Time to Buy and Sell Stock with Transaction Fee    ](http://blog.csdn.net/Leafage_M/article/details/79319304)|Medium|
 |	717	|	[1-bit and 2-bit Characters](http://blog.csdn.net/Leafage_M/article/details/78760146)|Easy|
 |	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
