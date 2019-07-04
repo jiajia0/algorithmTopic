@@ -73,6 +73,7 @@ Solved：21/28
 |	922	|	[Sort Array By Parity II](https://blog.csdn.net/Leafage_M/article/details/85638271)|Easy|
 |	977	| [Squares of a Sorted Array](<https://blog.csdn.net/Leafage_M/article/details/91126648>) |Easy|
 |	1051	| [Height Checker](<https://blog.csdn.net/Leafage_M/article/details/91519013>) |Easy|
+|	1089|	[1089. Duplicate Zeros.exe]()	|Easy|	
 ***
 #### Hash Table。
 | #      	  	| Title         |  Difficulty  |
