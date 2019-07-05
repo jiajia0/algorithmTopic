@@ -36,6 +36,7 @@ Solved：21/28
 |:-------------:|:-------------:| :-----:|
 |	1	|	[Two Sum](https://blog.csdn.net/Leafage_M/article/details/78066961)|Easy|
 |	66	|	[Plus One](https://blog.csdn.net/Leafage_M/article/details/86255455)|Easy|
+|	118	| Pascal's Triangle |Easy|
 |	121	|	[Best Time to Buy and Sell Stock    ](http://blog.csdn.net/Leafage_M/article/details/79302466)|Easy|
 |	122	|	[Best Time to Buy and Sell Stock II](http://blog.csdn.net/Leafage_M/article/details/79177612)|Easy|
 |	167	|	[Two Sum II - Input array is sorted](http://blog.csdn.net/Leafage_M/article/details/78991454)|Easy|
@@ -73,7 +74,7 @@ Solved：21/28
 |	922	|	[Sort Array By Parity II](https://blog.csdn.net/Leafage_M/article/details/85638271)|Easy|
 |	977	| [Squares of a Sorted Array](<https://blog.csdn.net/Leafage_M/article/details/91126648>) |Easy|
 |	1051	| [Height Checker](<https://blog.csdn.net/Leafage_M/article/details/91519013>) |Easy|
-|	1089|	[1089. Duplicate Zeros.exe]()	|Easy|	
+|	1089|	[1089. Duplicate Zeros.exe]()	|Easy|
 ***
 #### Hash Table。
 | #      	  	| Title         |  Difficulty  |
