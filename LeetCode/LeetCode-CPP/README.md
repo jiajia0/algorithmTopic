@@ -89,6 +89,7 @@ Solved：21/28
 |	739	|	[Daily Temperatures    ](http://blog.csdn.net/Leafage_M/article/details/79350188)|Medium|
 |	748	|	[Shortest Completing Word    ](http://blog.csdn.net/Leafage_M/article/details/79350350)|Medium|
 |	771	|	[Jewels and Stones](http://blog.csdn.net/Leafage_M/article/details/79340216)|Easy|
+|		| Subdomain Visit Count |Easy|
 |	961	| N-Repeated Element in Size 2N Array |Easy|
 |	1078	| Occurrences After Bigram |Easy|
 #### Other.
