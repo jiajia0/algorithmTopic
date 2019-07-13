@@ -91,6 +91,7 @@ Solved：21/28
 |	771	|	[Jewels and Stones](http://blog.csdn.net/Leafage_M/article/details/79340216)|Easy|
 | 811 | Subdomain Visit Count |Easy|
 | 884 | Uncommon Words from Two Sentences |Easy|
+|  | Verifying an Alien Dictionary |Easy|
 |	961	| N-Repeated Element in Size 2N Array |Easy|
 |	1078	| Occurrences After Bigram |Easy|
 #### Other.
