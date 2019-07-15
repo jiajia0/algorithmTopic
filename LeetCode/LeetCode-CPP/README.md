@@ -82,6 +82,7 @@ Solved：21/28
 |	136	|	[Single Number    ](http://blog.csdn.net/Leafage_M/article/details/79344100)|Easy|
 |	242	| Valid Anagram |Easy|
 |	347	|	[Top K Frequent Elements    ](http://blog.csdn.net/Leafage_M/article/details/79521690)|Medium|
+|	387	| First Unique Character in a String |Easy|
 |	389	|	[Find the Difference](http://blog.csdn.net/Leafage_M/article/details/79371019)|Easy|
 |	451	|	[Sort Characters By Frequency](http://blog.csdn.net/Leafage_M/article/details/79370857)|Medium|
 |	463	|	[Island Perimeter](http://blog.csdn.net/Leafage_M/article/details/79342588)|Easy|
