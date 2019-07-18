@@ -100,6 +100,10 @@ Solved：21/28
 |  | Verifying an Alien Dictionary |Easy|
 |	961	| N-Repeated Element in Size 2N Array |Easy|
 |	1078	| Occurrences After Bigram |Easy|
+#### Math。
+| #      	  	| Title         |  Difficulty  |
+|:-------------:|:-------------:| :-----:|
+|	942	|	DI String Match	|Easy|
 #### Other.
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
