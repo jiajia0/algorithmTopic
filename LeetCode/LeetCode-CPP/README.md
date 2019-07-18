@@ -80,6 +80,7 @@ Solved：21/28
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
 |	136	|	[Single Number    ](http://blog.csdn.net/Leafage_M/article/details/79344100)|Easy|
+|	202	| Happy Number |Easy|
 |	242	| Valid Anagram |Easy|
 |	347	|	[Top K Frequent Elements    ](http://blog.csdn.net/Leafage_M/article/details/79521690)|Medium|
 |	387	| First Unique Character in a String |Easy|
@@ -89,6 +90,7 @@ Solved：21/28
 |	463	|	[Island Perimeter](http://blog.csdn.net/Leafage_M/article/details/79342588)|Easy|
 |	500	|	[Keyboard Row    ](http://blog.csdn.net/Leafage_M/article/details/79341137)|Easy|
 |	575	|	[Distribute Candies](http://blog.csdn.net/Leafage_M/article/details/79342039)|Easy|
+|	599	| Minimum Index Sum of Two Lists |Easy|
 |	739	|	[Daily Temperatures    ](http://blog.csdn.net/Leafage_M/article/details/79350188)|Medium|
 |	748	|	[Shortest Completing Word    ](http://blog.csdn.net/Leafage_M/article/details/79350350)|Medium|
 |	771	|	[Jewels and Stones](http://blog.csdn.net/Leafage_M/article/details/79340216)|Easy|
