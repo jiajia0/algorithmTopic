@@ -106,7 +106,8 @@ Solved：21/28
 | 728 | Self Dividing Numbers | Easy |
 | 908 | Smallest Range I | Easy |
 |	942	|	DI String Match	|Easy|
-#### Other.
+#### String.
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+| 804 | Unique Morse Code Words | Easy |
 |	1108|	Defanging an IP Address|Easy|
