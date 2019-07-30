@@ -109,5 +109,7 @@ Solved：21/28
 #### String.
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+| 657 | Robot Return to Origin | Easy |
 | 804 | Unique Morse Code Words | Easy |
+| 819 | Most Common Word | Easy |
 |	1108|	Defanging an IP Address|Easy|
