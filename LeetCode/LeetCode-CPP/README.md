@@ -114,4 +114,5 @@ Solved：21/28
 | 657 | Robot Return to Origin | Easy |
 | 804 | Unique Morse Code Words | Easy |
 | 819 | Most Common Word | Easy |
+| 893 | Groups of Special-Equivalent Strings | Easy |
 |	1108|	Defanging an IP Address|Easy|
