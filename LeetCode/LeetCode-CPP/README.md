@@ -110,6 +110,7 @@ Solved：21/28
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
 | 344 | Reverse String | Easy |
+| 521 | Longest Uncommon Subsequence I | Easy |
 | 557 | Reverse Words in a String III | Easy |
 | 657 | Robot Return to Origin | Easy |
 | 804 | Unique Morse Code Words | Easy |
