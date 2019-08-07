@@ -92,6 +92,7 @@ Solved：21/28
 |	500	|	[Keyboard Row    ](http://blog.csdn.net/Leafage_M/article/details/79341137)|Easy|
 |	575	|	[Distribute Candies](http://blog.csdn.net/Leafage_M/article/details/79342039)|Easy|
 |	599	| Minimum Index Sum of Two Lists |Easy|
+|	609	| Find Duplicate File in System |Medium|
 |	645	| Set Mismatch |Easy|
 |	720	| Longest Word in Dictionary |Easy|
 |	739	|	[Daily Temperatures    ](http://blog.csdn.net/Leafage_M/article/details/79350188)|Medium|
