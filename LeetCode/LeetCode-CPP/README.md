@@ -130,3 +130,9 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 844  | Backspace String Compare |    Easy    |
 
+#### Other。
+
+|  #   |             Title              | Difficulty |
+| :--: | :----------------------------: | :--------: |
+| 852  | Peak Index in a Mountain Array |    Easy    |
+
