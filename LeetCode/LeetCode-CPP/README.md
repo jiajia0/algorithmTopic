@@ -77,6 +77,12 @@ Solved：21/28
 |	1051	| [Height Checker](<https://blog.csdn.net/Leafage_M/article/details/91519013>) |Easy|
 |	1089|	[1089. Duplicate Zeros.exe]()	|Easy|
 ***
+#### Binary Search。
+|  #   |       Title       | Difficulty |
+| :--: | :---------------: | :--------: |
+| 278  | First Bad Version |    Easy    |
+
+***
 #### Hash Table。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
