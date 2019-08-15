@@ -78,9 +78,10 @@ Solved：21/28
 |	1089|	[1089. Duplicate Zeros.exe]()	|Easy|
 ***
 #### Binary Search。
-|  #   |       Title       | Difficulty |
-| :--: | :---------------: | :--------: |
-| 278  | First Bad Version |    Easy    |
+|  #   |                          Title                          | Difficulty |
+| :--: | :-----------------------------------------------------: | :--------: |
+|  34  | Find First and Last Position of Element in Sorted Array |   Medium   |
+| 278  |                    First Bad Version                    |    Easy    |
 
 ***
 #### Hash Table。
