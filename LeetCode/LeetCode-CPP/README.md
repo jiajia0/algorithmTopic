@@ -82,6 +82,7 @@ Solved：21/28
 | :--: | :-----------------------------------------------------: | :--------: |
 |  34  | Find First and Last Position of Element in Sorted Array |   Medium   |
 |  74  |                   Search a 2D Matrix                    |   Medium   |
+| 240  |                  Search a 2D Matrix II                  |   Medium   |
 | 278  |                    First Bad Version                    |    Easy    |
 | 704  |                      Binary Search                      |    Easy    |
 
