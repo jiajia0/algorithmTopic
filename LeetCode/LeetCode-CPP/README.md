@@ -119,6 +119,7 @@ Solved：21/28
 | 728 | Self Dividing Numbers | Easy |
 | 908 | Smallest Range I | Easy |
 |	942	|	DI String Match	|Easy|
+|	1025	|	Divisor Game	|Easy|
 #### String.
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
