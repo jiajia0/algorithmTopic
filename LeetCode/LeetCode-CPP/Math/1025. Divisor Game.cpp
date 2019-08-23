@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 /*
@@ -14,14 +15,37 @@ Alice为4，Alice选则1，则Bob为3，输。
 所以当N为偶数时，Alice胜利。
 
 */
+/*
 class Solution {
 public:
     bool divisorGame(int N) {
         return N %2 ==0;
     }
+};*/
+
+class Solution {
+public:
+    bool divisorGame(int N) {
+        vector<bool> ans(N + 1, false);// 用来保存第N个数字的情况下，Alice是否胜利
+        ans[0] = true;
+
+        for(int i = 2; i <= N; i++) {
+            //cout << i << "-------------" << endl;
+            // j 小于 i的开方， 因为需要观察的是i-j，若j大于i的开方，则i-j的数字在之前已经计算过了，
+            // 例如：i=9,j=3, 9-1 , 9-2 , 9-3 没有计算过，但是9-4=5之前在6-1的时候已经计算过了
+            for(int j = 1; j * j < i; j++) {
+                //cout << i - j << endl;
+                if(i % j == 0 && !ans[i - j]) // 若i%j==0则说明此时Alice可以行动，如果 ans[i-j] == false ，则说明面对i-j数字的人会输，相当于Alice把数的情况推给了Bob
+                    ans[i] = true;
+            }
+        }
+        return ans[N];
+    }
 };
 
-int main() {
 
+int main() {
+    Solution s;
+    s.divisorGame(9);
     return 0;
 }
