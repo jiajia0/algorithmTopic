@@ -117,6 +117,7 @@ Solved：21/28
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
 | 319 | Bulb Switcher | Medium |
+| 326 | Power of Three | Easy |
 | 728 | Self Dividing Numbers | Easy |
 | 908 | Smallest Range I | Easy |
 |	942	|	DI String Match	|Easy|
