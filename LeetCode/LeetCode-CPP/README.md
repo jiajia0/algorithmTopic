@@ -116,6 +116,7 @@ Solved：21/28
 #### Math。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+| 231 | Power of Two | Easy |
 | 319 | Bulb Switcher | Medium |
 | 326 | Power of Three | Easy |
 | 728 | Self Dividing Numbers | Easy |
