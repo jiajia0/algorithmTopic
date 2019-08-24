@@ -122,6 +122,7 @@ Solved：21/28
 | 319 | Bulb Switcher | Medium |
 | 326 | Power of Three | Easy |
 | 728 | Self Dividing Numbers | Easy |
+| 877 | Stone Game | Medium |
 | 908 | Smallest Range I | Easy |
 |	942	|	DI String Match	|Easy|
 |	1025	|	Divisor Game	|Easy|
