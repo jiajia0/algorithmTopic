@@ -116,6 +116,7 @@ Solved：21/28
 #### Math。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+| 172 | Factorial Trailing Zeroes | Easy |
 | 231 | Power of Two | Easy |
 | 319 | Bulb Switcher | Medium |
 | 326 | Power of Three | Easy |
