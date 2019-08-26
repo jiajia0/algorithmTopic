@@ -149,6 +149,12 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 844  | Backspace String Compare |    Easy    |
 
+#### Bit Manipulation。
+
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 342  | Power of Four |    Easy    |
+
 #### Other。
 
 |  #   |             Title              | Difficulty |
