@@ -81,6 +81,7 @@ Solved：21/28
 |  #   |                          Title                          | Difficulty |
 | :--: | :-----------------------------------------------------: | :--------: |
 |  34  | Find First and Last Position of Element in Sorted Array |   Medium   |
+|  69  |                         Sqrt(x)                         |    Easy    |
 |  74  |                   Search a 2D Matrix                    |   Medium   |
 | 240  |                  Search a 2D Matrix II                  |   Medium   |
 | 278  |                    First Bad Version                    |    Easy    |
