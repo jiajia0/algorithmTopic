@@ -154,6 +154,7 @@ Solved：21/28
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
 | 342  | Power of Four |    Easy    |
+| 461 | Hamming Distance | Easy |
 
 #### Other。
 
