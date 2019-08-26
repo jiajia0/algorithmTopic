@@ -116,6 +116,7 @@ Solved：21/28
 #### Math。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
+| 7 | Reverse Integer | Easy |
 | 172 | Factorial Trailing Zeroes | Easy |
 | 258 | Add Digits | Easy |
 | 292 | Nim Game | Easy |
