@@ -158,6 +158,7 @@ Solved：21/28
 | 342  | Power of Four |    Easy    |
 | 461 | Hamming Distance | Easy |
 | 693 | Binary Number with Alternating Bits | Easy |
+| 762 | Prime Number of Set Bits in Binary Representation | Easy |
 
 #### Other。
 
