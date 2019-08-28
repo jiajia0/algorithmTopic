@@ -151,6 +151,13 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 844  | Backspace String Compare |    Easy    |
 
+***
+#### Tree。
+
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 112  | Path Sum |    Easy    |
+***
 #### Bit Manipulation。
 
 |  #   |          Title           | Difficulty |
