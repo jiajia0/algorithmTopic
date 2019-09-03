@@ -172,7 +172,12 @@ Solved：21/28
 | 461 | Hamming Distance | Easy |
 | 693 | Binary Number with Alternating Bits | Easy |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy |
-
+***
+#### Binary Search Tree。
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 1038 | Binary Search Tree to Greater Sum Tree | Medium |
+***
 #### Other。
 
 |  #   |             Title              | Difficulty |
