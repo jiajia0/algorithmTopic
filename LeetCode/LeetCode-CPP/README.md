@@ -166,6 +166,7 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 190 | Reverse Bits | Easy |
 | 191 | Number of 1 Bits | Easy |
+| 260 | Single Number III | Medium |
 | 338 | Counting Bits | Medium |
 | 342  | Power of Four |    Easy    |
 | 461 | Hamming Distance | Easy |
