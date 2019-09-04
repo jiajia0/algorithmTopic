@@ -159,6 +159,7 @@ Solved：21/28
 | 102 | Binary Tree Level Order Traversal | Medium |
 | 112  | Path Sum |    Easy    |
 | 113 | Path Sum II | Medium |
+| 1104 | Path In Zigzag Labelled Binary Tree | Medium |
 ***
 #### Bit Manipulation。
 
