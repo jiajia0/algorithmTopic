@@ -172,6 +172,7 @@ Solved：21/28
 | 338 | Counting Bits | Medium |
 | 342  | Power of Four |    Easy    |
 | 461 | Hamming Distance | Easy |
+| 617 | Merge Two Binary Trees | Easy |
 | 693 | Binary Number with Alternating Bits | Easy |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy |
 ***
