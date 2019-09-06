@@ -162,6 +162,7 @@ Solved：21/28
 | 113 | Path Sum II | Medium |
 | 563 | Binary Tree Tilt | Easy |
 | 637 | Average of Levels in Binary Tree | Easy |
+| 700 | Search in a Binary Search Tree | Easy |
 | 938 | Range Sum of BST | Easy |
 | 1104 | Path In Zigzag Labelled Binary Tree | Medium |
 ***
