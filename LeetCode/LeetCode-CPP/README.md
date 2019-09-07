@@ -165,6 +165,7 @@ Solved：21/28
 | 700 | Search in a Binary Search Tree | Easy |
 | 701 | Insert into a Binary Search Tree | Medium |
 | 938 | Range Sum of BST | Easy |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy |
 | 1104 | Path In Zigzag Labelled Binary Tree | Medium |
 ***
 #### Bit Manipulation。
