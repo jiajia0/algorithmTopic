@@ -156,6 +156,7 @@ Solved：21/28
 
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
+| 94 | Binary Tree Inorder Traversal | Medium |
 | 102 | Binary Tree Level Order Traversal | Medium |
 | 107 | Binary Tree Level Order Traversal II | Easy |
 | 112  | Path Sum |    Easy    |
