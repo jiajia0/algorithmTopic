@@ -162,6 +162,7 @@ Solved：21/28
 | 112  | Path Sum |    Easy    |
 | 113 | Path Sum II | Medium |
 | 144 | Binary Tree Preorder Traversal | Medium |
+| 145 | Binary Tree Postorder Traversal | Hard |
 | 429 | N-ary Tree Level Order Traversal | Easy |
 | 563 | Binary Tree Tilt | Easy |
 | 589 | N-ary Tree Preorder Traversal | Easy |
