@@ -160,6 +160,7 @@ Solved：21/28
 | 107 | Binary Tree Level Order Traversal II | Easy |
 | 112  | Path Sum |    Easy    |
 | 113 | Path Sum II | Medium |
+| 144 | Binary Tree Preorder Traversal | Medium |
 | 563 | Binary Tree Tilt | Easy |
 | 589 | N-ary Tree Preorder Traversal | Easy |
 | 637 | Average of Levels in Binary Tree | Easy |
