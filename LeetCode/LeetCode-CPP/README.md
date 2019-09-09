@@ -161,6 +161,7 @@ Solved：21/28
 | 112  | Path Sum |    Easy    |
 | 113 | Path Sum II | Medium |
 | 563 | Binary Tree Tilt | Easy |
+| 589 | N-ary Tree Preorder Traversal | Easy |
 | 637 | Average of Levels in Binary Tree | Easy |
 | 700 | Search in a Binary Search Tree | Easy |
 | 701 | Insert into a Binary Search Tree | Medium |
