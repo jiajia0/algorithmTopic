@@ -165,6 +165,7 @@ Solved：21/28
 | 144 | Binary Tree Preorder Traversal | Medium |
 | 145 | Binary Tree Postorder Traversal | Hard |
 | 429 | N-ary Tree Level Order Traversal | Easy |
+| 559 | Maximum Depth of N-ary Tree | Easy |
 | 563 | Binary Tree Tilt | Easy |
 | 589 | N-ary Tree Preorder Traversal | Easy |
 | 590 | N-ary Tree Postorder Traversal | Easy |
