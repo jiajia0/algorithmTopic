@@ -160,6 +160,7 @@ Solved：21/28
 | 102 | Binary Tree Level Order Traversal | Medium |
 | 104 | Maximum Depth of Binary Tree | Easy |
 | 107 | Binary Tree Level Order Traversal II | Easy |
+| 111 | Minimum Depth of Binary Tree | Easy |
 | 112  | Path Sum |    Easy    |
 | 113 | Path Sum II | Medium |
 | 144 | Binary Tree Preorder Traversal | Medium |
