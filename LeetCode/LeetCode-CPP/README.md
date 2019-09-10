@@ -158,6 +158,7 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 94 | Binary Tree Inorder Traversal | Medium |
 | 102 | Binary Tree Level Order Traversal | Medium |
+| 104 | Maximum Depth of Binary Tree | Easy |
 | 107 | Binary Tree Level Order Traversal II | Easy |
 | 112  | Path Sum |    Easy    |
 | 113 | Path Sum II | Medium |
