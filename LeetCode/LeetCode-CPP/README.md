@@ -200,6 +200,12 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium |
 ***
+
+#### Stack。
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 1047 | Remove All Adjacent Duplicates In String | Easy |
+***
 #### Other。
 
 |  #   |             Title              | Difficulty |
