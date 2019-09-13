@@ -204,6 +204,7 @@ Solved：21/28
 #### Stack。
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
+| 682 | Baseball Game | Easy |
 | 1047 | Remove All Adjacent Duplicates In String | Easy |
 ***
 #### Other。
