@@ -204,6 +204,7 @@ Solved：21/28
 #### Stack。
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
+| 225 | Implement Stack using Queues | Easy |
 | 232 | Implement Queue using Stacks | Easy |
 | 496 | Next Greater Element I | Easy |
 | 682 | Baseball Game | Easy |
