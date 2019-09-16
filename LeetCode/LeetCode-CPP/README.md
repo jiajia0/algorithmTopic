@@ -209,6 +209,7 @@ Solved：21/28
 | 232 | Implement Queue using Stacks | Easy |
 | 496 | Next Greater Element I | Easy |
 | 682 | Baseball Game | Easy |
+| 946 | Validate Stack Sequences | Medium |
 | 1047 | Remove All Adjacent Duplicates In String | Easy |
 ***
 #### Other。
