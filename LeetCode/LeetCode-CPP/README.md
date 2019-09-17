@@ -208,6 +208,7 @@ Solved：21/28
 | 225 | Implement Stack using Queues | Easy |
 | 232 | Implement Queue using Stacks | Easy |
 | 496 | Next Greater Element I | Easy |
+| 503 | Next Greater Element II | Medium |
 | 682 | Baseball Game | Easy |
 | 946 | Validate Stack Sequences | Medium |
 | 1003 | Check If Word Is Valid After Substitutions | Medium |
