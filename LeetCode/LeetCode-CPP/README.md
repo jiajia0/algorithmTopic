@@ -210,6 +210,7 @@ Solved：21/28
 | 496 | Next Greater Element I | Easy |
 | 682 | Baseball Game | Easy |
 | 946 | Validate Stack Sequences | Medium |
+| 1019 | Next Greater Node In Linked List | Medium |
 | 1047 | Remove All Adjacent Duplicates In String | Easy |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium |
 ***
