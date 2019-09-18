@@ -207,6 +207,7 @@ Solved：21/28
 | 20 | Valid Parentheses | Easy |
 | 225 | Implement Stack using Queues | Easy |
 | 232 | Implement Queue using Stacks | Easy |
+| 394 | Decode String | Medium |
 | 496 | Next Greater Element I | Easy |
 | 503 | Next Greater Element II | Medium |
 | 682 | Baseball Game | Easy |
