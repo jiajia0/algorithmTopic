@@ -175,6 +175,7 @@ Solved：21/28
 | 653 | Two Sum IV - Input is a BST | Easy |
 | 700 | Search in a Binary Search Tree | Easy |
 | 701 | Insert into a Binary Search Tree | Medium |
+| 814 | Binary Tree Pruning | Medium |
 | 897 | Increasing Order Search Tree | Easy |
 | 938 | Range Sum of BST | Easy |
 | 965 | Univalued Binary Tree | Easy |
