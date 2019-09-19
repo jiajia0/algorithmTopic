@@ -150,6 +150,7 @@ Solved：21/28
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
 | 844  | Backspace String Compare |    Easy    |
+| 925  |    Long Pressed Name     |    Easy    |
 
 ***
 #### Tree。
