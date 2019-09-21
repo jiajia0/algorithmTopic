@@ -116,6 +116,7 @@ Solved：21/28
 | 953 | Verifying an Alien Dictionary |Easy|
 |	961	| N-Repeated Element in Size 2N Array |Easy|
 |	1078	| Occurrences After Bigram |Easy|
+|	1189	| Maximum Number of Balloons |Easy|
 #### Math。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
