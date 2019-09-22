@@ -118,6 +118,7 @@ Solved：21/28
 |	961	| N-Repeated Element in Size 2N Array |Easy|
 |	1078	| Occurrences After Bigram |Easy|
 |	1189	| Maximum Number of Balloons |Easy|
+|	1198	| Find Smallest Common Element in All Rows |Medium|
 #### Math。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
