@@ -222,6 +222,11 @@ Solved：21/28
 | 1047 | Remove All Adjacent Duplicates In String | Easy |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium |
 ***
+#### Greedy。
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 1196 |How Many Apples Can You Put into the Basket|Easy|
+***
 #### Other。
 
 |  #   |             Title              | Difficulty |
