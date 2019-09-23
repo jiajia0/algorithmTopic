@@ -212,6 +212,11 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 1197 | Minimum Knight Moves | Medium |
 ***
+#### Union Find。
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 1202 | Smallest String With Swaps | Medium |
+***
 #### Stack。
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
