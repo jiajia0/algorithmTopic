@@ -89,6 +89,7 @@ Solved：21/28
 | 278  |                    First Bad Version                    |    Easy    |
 | 410  |                 Split Array Largest Sum                 |    Hard    |
 | 704  |                      Binary Search                      |    Easy    |
+| 1201 |                     Ugly Number III                     |   Medium   |
 
 ***
 #### Hash Table。
