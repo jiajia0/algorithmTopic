@@ -87,6 +87,7 @@ Solved：21/28
 |  74  |                   Search a 2D Matrix                    |   Medium   |
 | 240  |                  Search a 2D Matrix II                  |   Medium   |
 | 278  |                    First Bad Version                    |    Easy    |
+| 392  |                     Is Subsequence                      |    Easy    |
 | 410  |                 Split Array Largest Sum                 |    Hard    |
 | 704  |                      Binary Search                      |    Easy    |
 | 1201 |                     Ugly Number III                     |   Medium   |
