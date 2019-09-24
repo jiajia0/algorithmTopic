@@ -20,16 +20,16 @@ int Sunday(string str, string p) {
                 return start;
         }
 
-        if(start + i == str.size() - 1) { // 若此时已经检测到最后一个字符
+        if(start + p.size() >= str.size()) { // 若此时已经检测到最后一个字符
             return -1;
         }
 
         // 若没有匹配成功，则需将start向后移动
-        // 若索引为：start + p.size() + 1 的元素不在p中，则直接向后移动 start + p.size() + 2 位。
-        if(next[start + i + 1]) { // 如果下一个字符在p中出现，则next[start + i + 1]的值就是
-            start += p.size() - next[start + i + 1];
-        } else { // 若下一个字符没有出现，则start 向后 走一步
-            start++;
+        // 若索引为：start + p.size() + 1 的元素不在p中，则直接向后移动 p.size()位。
+        if(next[str[start + p.size()]]) { // 如果下一个字符在p中出现，则next[start + i]的值就是需要移动的
+            start += p.size() - next[str[start + p.size()]];
+        } else { // 若下一个字符没有出现，则start 向后 走p.size()个位置
+            start += p.size();
         }
     }
     return -1;
@@ -37,7 +37,8 @@ int Sunday(string str, string p) {
 
 int main() {
     string str = "here is a example";
-    string p = "example"; // 10
+    //string p = "example"; // 10
+    string p = "le";
     int ans = Sunday(str, p);
     cout << ans;
     return 0;
