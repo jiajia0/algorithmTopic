@@ -122,6 +122,7 @@ Solved：21/28
 |	1078	| Occurrences After Bigram |Easy|
 |	1189	| Maximum Number of Balloons |Easy|
 |	1198	| Find Smallest Common Element in All Rows |Medium|
+|	1207	| Unique Number of Occurrences |Easy|
 #### Math。
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
