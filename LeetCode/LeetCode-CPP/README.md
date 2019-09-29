@@ -236,6 +236,7 @@ Solved：21/28
 | 1019 | Next Greater Node In Linked List | Medium |
 | 1047 | Remove All Adjacent Duplicates In String | Easy |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium |
+| 1209 | Remove All Adjacent Duplicates in String II | Medium |
 ***
 #### Greedy。
 |  #   |          Title           | Difficulty |
