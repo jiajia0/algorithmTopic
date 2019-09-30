@@ -222,6 +222,11 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 1202 | Smallest String With Swaps | Medium |
 ***
+#### Sliding Window。
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 1208 | Get Equal Substrings Within Budget | Medium |
+***
 #### Stack。
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
