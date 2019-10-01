@@ -156,11 +156,12 @@ Solved：21/28
 
 #### Tow Pointers。
 
-|  #   |          Title           | Difficulty |
-| :--: | :----------------------: | :--------: |
-|  27  |      Remove Element      |    Easy    |
-| 844  | Backspace String Compare |    Easy    |
-| 925  |    Long Pressed Name     |    Easy    |
+|  #   |                Title                | Difficulty |
+| :--: | :---------------------------------: | :--------: |
+|  26  | Remove Duplicates from Sorted Array |    Easy    |
+|  27  |           Remove Element            |    Easy    |
+| 844  |      Backspace String Compare       |    Easy    |
+| 925  |          Long Pressed Name          |    Easy    |
 
 ***
 #### Tree。
