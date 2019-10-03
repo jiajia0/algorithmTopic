@@ -119,6 +119,7 @@ Solved：21/28
 | 884 | Uncommon Words from Two Sentences |Easy|
 | 953 | Verifying an Alien Dictionary |Easy|
 |	961	| N-Repeated Element in Size 2N Array |Easy|
+|	1002	| Find Common Characters |Easy|
 |	1078	| Occurrences After Bigram |Easy|
 |	1160	| Find Words That Can Be Formed by Characters |Easy|
 |	1189	| Maximum Number of Balloons |Easy|
