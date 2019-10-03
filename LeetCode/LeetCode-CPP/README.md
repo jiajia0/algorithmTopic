@@ -100,6 +100,7 @@ Solved：21/28
 |	202	| Happy Number |Easy|
 |	242	| Valid Anagram |Easy|
 |	347	|	[Top K Frequent Elements    ](http://blog.csdn.net/Leafage_M/article/details/79521690)|Medium|
+|	350	| Intersection of Two Arrays II |Easy|
 |	387	| First Unique Character in a String |Easy|
 |	389	|	[Find the Difference](http://blog.csdn.net/Leafage_M/article/details/79371019)|Easy|
 |	409	| Longest Palindrome |Easy|
