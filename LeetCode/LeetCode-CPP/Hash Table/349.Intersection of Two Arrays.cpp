@@ -20,6 +20,21 @@ public:
     }
 };
 
+class Solution {
+public:
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int,int> nums;
+        vector<int> res;
+        for(int n : nums1)
+            nums[n]++;
+        for(int n : nums2) {
+            if(nums.count(n) && find(res.begin(), res.end(), n) == res.end())
+                res.push_back(n);
+        }
+        return res;
+    }
+};
+
 int main() {
     Solution s;
     vector<int> v1 = {1,2,3,1};
