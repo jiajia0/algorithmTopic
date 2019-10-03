@@ -99,6 +99,7 @@ Solved：21/28
 |	136	|	[Single Number    ](http://blog.csdn.net/Leafage_M/article/details/79344100)|Easy|
 |	202	| Happy Number |Easy|
 |	242	| Valid Anagram |Easy|
+|	299	| Bulls and Cows |Easy|
 |	347	|	[Top K Frequent Elements    ](http://blog.csdn.net/Leafage_M/article/details/79521690)|Medium|
 |	349	| Intersection of Two Arrays |Easy|
 |	350	| Intersection of Two Arrays II |Easy|
