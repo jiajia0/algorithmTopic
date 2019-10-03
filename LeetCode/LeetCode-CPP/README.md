@@ -120,6 +120,7 @@ Solved：21/28
 | 953 | Verifying an Alien Dictionary |Easy|
 |	961	| N-Repeated Element in Size 2N Array |Easy|
 |	1078	| Occurrences After Bigram |Easy|
+|	1160	| Find Words That Can Be Formed by Characters |Easy|
 |	1189	| Maximum Number of Balloons |Easy|
 |	1198	| Find Smallest Common Element in All Rows |Medium|
 |	1207	| Unique Number of Occurrences |Easy|
