@@ -206,6 +206,7 @@ Solved：21/28
 | 965 | Univalued Binary Tree | Easy |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy |
 | 1104 | Path In Zigzag Labelled Binary Tree | Medium |
+| 1214 | Two Sum BSTs | Medium |
 ***
 #### Bit Manipulation。
 
