@@ -172,6 +172,7 @@ Solved：21/28
 | 345  |       Reverse Vowels of a String       |    Easy    |
 | 844  |        Backspace String Compare        |    Easy    |
 | 925  |           Long Pressed Name            |    Easy    |
+| 1213 |  Intersection of Three Sorted Arrays   |    Easy    |
 
 ***
 #### Tree。
