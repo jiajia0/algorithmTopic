@@ -151,6 +151,7 @@ Solved：21/28
 | 521 | Longest Uncommon Subsequence I | Easy |
 | 557 | Reverse Words in a String III | Easy |
 | 657 | Robot Return to Origin | Easy |
+| 680 | Valid Palindrome II | Easy |
 | 767 | Reorganize String | Medium |
 | 788 | Rotated Digits | Easy |
 | 804 | Unique Morse Code Words | Easy |
