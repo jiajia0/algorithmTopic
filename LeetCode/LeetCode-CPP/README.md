@@ -16,6 +16,7 @@ Solved：21/28
 |	83	|	[Remove Duplicates from Sorted List   ](http://blog.csdn.net/leafage_m/article/details/78012397)|Easy|
 |	86	|	[Partition List   ](http://blog.csdn.net/leafage_m/article/details/78108121)|Medium|
 |	92	|	[Reverse Linked List II   ](http://blog.csdn.net/leafage_m/article/details/78263581)|Medium|
+|	138	| Copy List with Random Pointer |Medium|
 |	141	|	[Linked List Cycle   ](http://blog.csdn.net/leafage_m/article/details/78024848)|Easy|
 |	142	|	[Linked List Cycle II   ](http://blog.csdn.net/leafage_m/article/details/78108205)|Medium|
 |	143	|	[Reorder List   ](http://blog.csdn.net/leafage_m/article/details/78298607)|Medium|
