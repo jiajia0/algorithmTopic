@@ -10,6 +10,7 @@ Solved：21/28
 |	2	|	[Add Two Numbers   ](http://blog.csdn.net/leafage_m/article/details/78066285)|Medium|
 |	19	| 	[Remove Nth Node From End of List](http://blog.csdn.net/leafage_m/article/details/78089813)|Medium|
 |	21	|   [Merge Two Sorted Lists](http://blog.csdn.net/leafage_m/article/details/78035737)|Easy|
+|	23	| Merge k Sorted Lists |Hard|
 |	24	|	[Swap Nodes in Pairs  ](http://blog.csdn.net/leafage_m/article/details/78066476)|Medium|
 |	61	|	[Rotate List   ](http://blog.csdn.net/leafage_m/article/details/78318296)|Medium|
 |	82	|	[Remove Duplicates from Sorted List II   ](http://blog.csdn.net/leafage_m/article/details/78262918)|Medium|
