@@ -80,6 +80,7 @@ Solved：21/28
 |	989	| Add to Array-Form of Integer |Easy|
 |	1051	| [Height Checker](<https://blog.csdn.net/Leafage_M/article/details/91519013>) |Easy|
 |	1089|	[1089. Duplicate Zeros.exe]()	|Easy|
+| 1122 |	Relative Sort Array	|Easy|
 | 1200 |	Minimum Absolute Difference	|Easy|
 | 1217 |	Play with Chips	|Easy|
 ***
