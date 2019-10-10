@@ -81,6 +81,7 @@ Solved：21/28
 |	1018	| Binary Prefix Divisible By 5 |Easy|
 |	1051	| [Height Checker](<https://blog.csdn.net/Leafage_M/article/details/91519013>) |Easy|
 |	1089|	[1089. Duplicate Zeros.exe]()	|Easy|
+| 1010 |	Pairs of Songs With Total Durations Divisible by 60	|Easy|
 | 1122 |	Relative Sort Array	|Easy|
 | 1170 |	Compare Strings by Frequency of the Smallest Character	|Easy|
 | 1184 |	Distance Between Bus Stops	|Easy|
