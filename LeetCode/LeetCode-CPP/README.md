@@ -83,6 +83,7 @@ Solved：21/28
 |	1089|	[1089. Duplicate Zeros.exe]()	|Easy|
 | 1122 |	Relative Sort Array	|Easy|
 | 1170 |	Compare Strings by Frequency of the Smallest Character	|Easy|
+| 1184 |	Distance Between Bus Stops	|Easy|
 | 1200 |	Minimum Absolute Difference	|Easy|
 | 1217 |	Play with Chips	|Easy|
 ***
