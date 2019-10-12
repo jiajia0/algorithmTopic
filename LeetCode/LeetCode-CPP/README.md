@@ -39,6 +39,7 @@ Solved：21/28
 |:-------------:|:-------------:| :-----:|
 |	1	|	[Two Sum](https://blog.csdn.net/Leafage_M/article/details/78066961)|Easy|
 |	41	| First Missing Positive |Hard|
+|	53	| Maximum Subarray |Easy|
 |	66	|	[Plus One](https://blog.csdn.net/Leafage_M/article/details/86255455)|Easy|
 |	118	| Pascal's Triangle |Easy|
 |	121	|	[Best Time to Buy and Sell Stock    ](http://blog.csdn.net/Leafage_M/article/details/79302466)|Easy|
