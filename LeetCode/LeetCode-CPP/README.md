@@ -67,6 +67,7 @@ Solved：21/28
 |	709	| [To Lower Case](<https://blog.csdn.net/Leafage_M/article/details/91492174>) |Easy|
 |	714	|	[Best Time to Buy and Sell Stock with Transaction Fee    ](http://blog.csdn.net/Leafage_M/article/details/79319304)|Medium|
 |	717	|	[1-bit and 2-bit Characters](http://blog.csdn.net/Leafage_M/article/details/78760146)|Easy|
+|	724	| Find Pivot Index |Easy|
 |	747	|	[Largest Number At Least Twice of Others](http://blog.csdn.net/Leafage_M/article/details/78997631)|Easy|
 |	766	|	[Toeplitz Matrix](http://blog.csdn.net/Leafage_M/article/details/79157007)|Easy|
 |	769	|	[Max Chunks To Make Sorted](http://blog.csdn.net/Leafage_M/article/details/79324942)|Medium|
