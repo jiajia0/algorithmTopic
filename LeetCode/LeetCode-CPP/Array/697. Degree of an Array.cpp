@@ -51,7 +51,7 @@ public:
         return minLen;
     }
 };*/
-
+/*
 class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
@@ -80,6 +80,29 @@ public:
         }
 
         return minLen;
+    }
+};
+*/
+class Solution {
+public:
+    int findShortestSubArray(vector<int>& nums) {
+        int ans = 1;
+        unordered_map<int,pair<int,int>> count;
+        int degree = 1;
+        for(int i = 0; i < nums.size(); i++) {
+            count[nums[i]].second++;
+            if(count[nums[i]].second == 1) { // 表示第一次出现
+                count[nums[i]].first = i; // 记录开始的坐标
+            } else {
+                if(count[nums[i]].second > degree) { // 如果当前出现的次数更大
+                    degree = count[nums[i]].second; // 更新
+                    ans = i - count[nums[i]].first + 1; // 记录此时的长度
+                } else if(count[nums[i]].second == degree) {
+                    ans = min(ans, i - count[nums[i]].first + 1);
+                }
+            }
+        }
+        return ans;
     }
 };
 
