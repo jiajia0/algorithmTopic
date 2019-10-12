@@ -73,6 +73,7 @@ Solved：21/28
 |	769	|	[Max Chunks To Make Sorted](http://blog.csdn.net/Leafage_M/article/details/79324942)|Medium|
 |	830	|	[Positions of Large Groups](https://blog.csdn.net/Leafage_M/article/details/85855645)|Easy|
 |	832	|	[Flipping an Image](https://blog.csdn.net/Leafage_M/article/details/85549951)|Easy|
+|	849	| Maximize Distance to Closest Person |Easy|
 |	867	|	[Transpose Matrix](https://blog.csdn.net/Leafage_M/article/details/85713507)|Easy|
 |	888	|	[Fair Candy Swap](https://blog.csdn.net/Leafage_M/article/details/85792710)|Easy|
 |	896	|	[Monotonic Array](https://blog.csdn.net/Leafage_M/article/details/85721532)|Easy|
