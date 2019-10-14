@@ -91,6 +91,7 @@ Solved：21/28
 | 1184 |	Distance Between Bus Stops	|Easy|
 | 1200 |	Minimum Absolute Difference	|Easy|
 | 1217 |	Play with Chips	|Easy|
+| 1222 |	Queens That Can Attack the King	|Medium|
 ***
 #### Binary Search。
 |  #   |                          Title                          | Difficulty |
