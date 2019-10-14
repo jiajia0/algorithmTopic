@@ -157,6 +157,7 @@ Solved：21/28
 | 877 | Stone Game | Medium |
 | 908 | Smallest Range I | Easy |
 |	942	|	DI String Match	|Easy|
+|	970	|	Powerful Integers	|Easy|
 |	1025	|	Divisor Game	|Easy|
 #### String.
 | #      	  	| Title         |  Difficulty  |
