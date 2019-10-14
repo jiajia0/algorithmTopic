@@ -114,6 +114,7 @@ Solved：21/28
 |	202	| Happy Number |Easy|
 |	205	| Isomorphic Strings |Easy|
 |	242	| Valid Anagram |Easy|
+|	290	| Word Pattern |Easy|
 |	299	| Bulls and Cows |Easy|
 |	347	|	[Top K Frequent Elements    ](http://blog.csdn.net/Leafage_M/article/details/79521690)|Medium|
 |	349	| Intersection of Two Arrays |Easy|
