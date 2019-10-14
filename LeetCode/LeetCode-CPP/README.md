@@ -125,6 +125,7 @@ Solved：21/28
 |	500	|	[Keyboard Row    ](http://blog.csdn.net/Leafage_M/article/details/79341137)|Easy|
 |	560	| Subarray Sum Equals K |Medium|
 |	575	|	[Distribute Candies](http://blog.csdn.net/Leafage_M/article/details/79342039)|Easy|
+|	594	| Longest Harmonious Subsequence |Easy|
 |	599	| Minimum Index Sum of Two Lists |Easy|
 |	609	| Find Duplicate File in System |Medium|
 |	645	| Set Mismatch |Easy|
@@ -173,6 +174,7 @@ Solved：21/28
 | 893 | Groups of Special-Equivalent Strings | Easy |
 | 917 | Reverse Only Letters | Easy |
 |	1108|	Defanging an IP Address|Easy|
+| 1221 | Split a String in Balanced Strings |Easy|
 
 #### Tow Pointers。
 
