@@ -249,6 +249,11 @@ Solved：21/28
 | :--: | :----------------------: | :--------: |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium |
 ***
+#### Depth-first Search。
+|  #   |          Title           | Difficulty |
+| :--: | :----------------------: | :--------: |
+| 1219 | Path with Maximum Gold | Medium |
+***
 #### Breadth-first Search。
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
