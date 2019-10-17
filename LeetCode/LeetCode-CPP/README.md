@@ -260,6 +260,7 @@ Solved：21/28
 #### Breadth-first Search。
 |  #   |          Title           | Difficulty |
 | :--: | :----------------------: | :--------: |
+| 993 | Cousins in Binary Tree | Easy |
 | 1197 | Minimum Knight Moves | Medium |
 | 1215 | Stepping Numbers | Medium |
 ***
