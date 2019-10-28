@@ -97,6 +97,7 @@ Solved：21/28
 |  #   |                          Title                          | Difficulty |
 | :--: | :-----------------------------------------------------: | :--------: |
 |  34  | Find First and Last Position of Element in Sorted Array |   Medium   |
+|  35  |                 Search Insert Position                  |    Easy    |
 |  69  |                         Sqrt(x)                         |    Easy    |
 |  74  |                   Search a 2D Matrix                    |   Medium   |
 | 240  |                  Search a 2D Matrix II                  |   Medium   |
@@ -161,6 +162,8 @@ Solved：21/28
 |	942	|	DI String Match	|Easy|
 |	970	|	Powerful Integers	|Easy|
 |	1025	|	Divisor Game	|Easy|
+|	1232	|	Check If It Is a Straight Line	|Easy|
+|	1237	|	Find Positive Integer Solution for a Given Equation	|Easy|
 #### String.
 | #      	  	| Title         |  Difficulty  |
 |:-------------:|:-------------:| :-----:|
