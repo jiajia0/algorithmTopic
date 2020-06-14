@@ -5,3 +5,8 @@
 - 2020/06/11:   [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 - 2020/06/12：[15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+
+- 2020/06/13：[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+
+- 2020/06/14：[1300. 转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)
+
