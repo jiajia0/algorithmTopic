@@ -10,3 +10,5 @@
 
 - 2020/06/14：[1300. 转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)
 
+- 2020/06/15：[14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+
