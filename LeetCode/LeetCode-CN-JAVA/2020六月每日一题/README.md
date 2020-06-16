@@ -12,3 +12,5 @@
 
 - 2020/06/15：[14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 
+- 2020/06/16：[297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+
