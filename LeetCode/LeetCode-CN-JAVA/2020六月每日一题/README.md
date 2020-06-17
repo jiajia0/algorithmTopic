@@ -14,3 +14,5 @@
 
 - 2020/06/16：[297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
+- 2020/06/17：[1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)
+
