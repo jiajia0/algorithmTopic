@@ -16,3 +16,5 @@
 
 - 2020/06/17：[1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)
 
+- 2020/06/18：[1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)
+
