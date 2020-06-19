@@ -18,3 +18,5 @@
 
 - 2020/06/18：[1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)
 
+- 2020/06/19：[125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+
